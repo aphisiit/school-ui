@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Relate Project
+- [school-api](https://github.com/aphisiit/school-api)
